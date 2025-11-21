@@ -148,6 +148,6 @@ Contributions are welcome\! If you find a bug or have a suggestion for a new mod
 
 -----
 
-Created with ❤️ by **Aegis Dynamics** (Muhammad Hamza/Handle)
+Created with ❤️ by **Muhammad Hamza**
 
 ```
